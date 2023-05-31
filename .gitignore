@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+coverage
+*.pem
+.env
+package-lock.json
+*.ini
+*.log
